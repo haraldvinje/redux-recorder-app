@@ -12,6 +12,4 @@ npm install
 
 ## Description
 
-This project uses the json-server package to set up a "fake" API. To start both the front end and the json-server, run.
-
-`npm run dev`
+This project uses the json-server package to set up a "fake" API. To start both the front end and the json-server, run `npm run dev`.
